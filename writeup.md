@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Franco Pena-Lepe
+**Date:** 8/19/2025
 
 ---
 
@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a tool for tracking your code and see what changes have been made to it. It makes collaborating with other people easier. GitHub just a way to use Git online.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commiting is a change that you have made to your repository. Pushing is just updating or like actually adding the commits to your repository.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is like a project and it is where you store your project files in github. They contain READMEs which is just a file telling people about your project and important info about it.
 
 ---
 
